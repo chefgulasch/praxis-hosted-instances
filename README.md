@@ -1,6 +1,6 @@
 # Hosted Instances
 Sie unterstützen das junge Start-Up-Unternehmen ACME mit Ihren IT- und Cloud-Kenntnissen.
-Das Unternehmen hat eine fertige Web-Seite erworben und möchte mit dieser nun live gehen.
+Das Unternehmen hat eine fertige Webseite erworben und möchte mit dieser nun live gehen.
 Zurzeit mietet das Unternehmen lediglich einen Co-Working-Space für seine Mitarbeiter.
 Eigene Server-Hardware ist nicht vorhanden.
 
@@ -11,7 +11,7 @@ Diese sind virtuelle Computer die auf Abruf von einem Cloud Provider bereitgeste
 ## Anleitung
 
 ### Vorbereitungen
-1. Schalte die AWS Management Console auf Englisch um.
+1. Schalten Sie die AWS Management Console auf Englisch um. Google-Ergebnisse sind wesentlich besser ;-)
 
 ### Starten der Instanz
 1. Öffnen Sie den EC2-Service.
